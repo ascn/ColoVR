@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coloring Book.CSharp", "Coloring Book.CSharp.csproj", "{FEB5466E-CFF8-934A-C47F-61AA7726CC26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coloring Book.CSharp.Editor", "Coloring Book.CSharp.Editor.csproj", "{B5EA3E6F-0514-7FA7-C0E3-A6B5002CEEBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB5466E-CFF8-934A-C47F-61AA7726CC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB5466E-CFF8-934A-C47F-61AA7726CC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB5466E-CFF8-934A-C47F-61AA7726CC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB5466E-CFF8-934A-C47F-61AA7726CC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EA3E6F-0514-7FA7-C0E3-A6B5002CEEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EA3E6F-0514-7FA7-C0E3-A6B5002CEEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EA3E6F-0514-7FA7-C0E3-A6B5002CEEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EA3E6F-0514-7FA7-C0E3-A6B5002CEEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
